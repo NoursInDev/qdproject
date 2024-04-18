@@ -1,0 +1,29 @@
+{
+    "DebugMode": true,
+    "NumTileX": 11,
+    "NumTileY": 11,
+    "TileSize": 16,
+    "MapTileSize": 1,
+    "NumCharacterAnimImages": 4,
+    "NumFramePerCharacterAnimImage": 5,
+    "NumTileForDebug": 6,
+    "CameraMode": 1,
+    "FloorKind": 4,
+    "FloorFile": "../floor-files/validation",
+
+    "SaveMap": false,
+    "ForceCenterPlayer": false,
+    "MapDimX": 20,
+    "MapDimY": 20,
+    "MapX": 20,
+    "MapY": 20,
+
+    "Tp1x": -1,
+    "Tp1y": -1,
+    "Tp2x": -1,
+    "Tp2y": -1,
+    "Active": false,
+    "NbTP": 0,
+    "Enabled": true,
+    "TPNameExtension": "Téléportail"
+}
